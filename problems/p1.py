@@ -1,5 +1,7 @@
 #!/bin/env python
 
+# Multiples of 3 and 5
+
 sum = 0;
 i = 1;
 while i < 1000:
